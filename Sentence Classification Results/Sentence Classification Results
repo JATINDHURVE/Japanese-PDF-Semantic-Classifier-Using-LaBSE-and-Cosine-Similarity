@@ -1,0 +1,1 @@
+This folder contains CSV files where each row represents a sentence extracted from a Japanese PDF. The columns include the sentence, its page number, the most relevant topic assigned based on cosine similarity, and the similarity score.

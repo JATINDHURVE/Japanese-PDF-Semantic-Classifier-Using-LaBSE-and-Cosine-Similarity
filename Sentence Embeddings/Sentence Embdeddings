@@ -1,0 +1,1 @@
+Includes outputs where each sentence extracted from the PDFs is paired with its corresponding LaBSE-generated embedding. These are used to compute similarity with topic vectors.
